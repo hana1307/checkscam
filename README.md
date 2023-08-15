@@ -1,0 +1,2 @@
+# checkscam
+Báo Cáo scam
